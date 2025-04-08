@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabjyotsingh996" alt="prabjyotsingh996" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [prabjyot-singh.vercel.app](prabjyot-singh.vercel.app)
+
 
 - 📫 How to reach me **prabjyotsingh996@gmail.com**
 
