@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prabjot singh</h1>
+<h1 align="center">Hi 👋, I'm Prabjyot singh</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabjyotsingh996&label=Profile%20views&color=7a9ce1&style=plastic" alt="prabjyotsingh996" /> </p>
