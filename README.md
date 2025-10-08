@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabjyotsingh996&show_icons=true&locale=en" alt="prabjyotsingh996" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabjyotsingh996&theme=dark" alt="prabjyotsingh996" /></p> correct this code and make it realist so it can actully show real info 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabjyotsingh996&theme=dark" alt="prabjyotsingh996" /></p> 
